@@ -1,0 +1,6 @@
+build/include
+../esp-idf/components/freertos/include/
+../esp-idf/components/esp_common/include/
+../esp-idf/components/driver/include/
+../esp-idf/components/soc/include/hal/
+../esp-idf/components/esp_event/include/
